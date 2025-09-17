@@ -14,7 +14,3 @@ This application provides a suite of AI-powered tools designed to inspire and as
 ## Getting Started
 
 To get started, navigate to the desired tool using the sidebar. To enable the AI features, you will need to add your Google AI API key to a `.env` file in the root of the project:
-
-```
-GEMINI_API_KEY=YOUR_API_KEY_HERE
-```
